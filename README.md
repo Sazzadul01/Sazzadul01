@@ -10,79 +10,96 @@
 
 </div>  
 
-About Me
-
-I am a passionate Computer Science & Engineering student at Daffodil International University.  
-I specialize in Data Analysis, Power BI Dashboard Development, and AI-based research projects.  
-
+I am a passionate Computer Science & Engineering student at Daffodil International University.I specialize in Data Analysis, Power BI Dashboard Development, and AI-based research projects.
 I love transforming raw data into meaningful insights and building impactful analytical solutions.
 
 
 🛠 Tech Stack
 
-| Layer             | Technologies                                                      |
-| ----------------- | ----------------------------------------------------------------- |
-|   Data & BI       | Power BI, Microsoft Excel, MySQL, PostgreSQL                      |
-|   Programming     | JavaScript, HTML, CSS                                             |
-|   Data Analysis   | Data Cleaning, Data Visualization, KPI Tracking, Dashboard Design |
-|   Database        | MySQL, PostgreSQL                                                 |
-|   Research & AI   | AI-based Research, Data Modeling, Analytical Techniques           |
-|   Tools           | Microsoft Office, Git (Basic), PowerPoint                         |
+|       Layer               |        Technologies                                                                           |
+| ------------------------- | ----------------------------------------------------------------------------                  |
+|   Data & BI               |     Power BI, Microsoft Excel, MySQL, PostgreSQL                                              |
+|   Programming             |     JavaScript, HTML, CSS                                                                     |
+|   Data Analysis           |     Data Cleaning, Data Visualization, KPI Tracking, Dashboard Design                         |
+|   Database                |     MySQL, PostgreSQL                                                                         |
+|   Research & AI           |     AI-based Research, Data Modeling, Analytical Techniques                                   |
+|   Tools                   |     Microsoft Office, Git (Basic), PowerPoint                                                 |
 
 
 
-📌 Projects
+---
 
-📊 Mobile Sales Dashboard – Power BI
-An interactive dashboard to analyze mobile sales performance.
+# 🚀 Projects
 
-Features:
-- Total Sales by City (Map)
-- Monthly Sales Trend
-- Brand-wise Performance
-- Payment Method Analysis (Cash, BKash, Nagad, Rocket)
-- Customer Rating Distribution
-- Dynamic Monthly Slicer
+🔹 **Mobile Sales Dashboard — Power BI**
+*Interactive Business Intelligence Dashboard (2026)*
 
+> An interactive dashboard to analyze mobile sales performance with dynamic filtering and KPI insights.
 
-📈 Sales Dashboard – Excel
-Dynamic KPI dashboard showing:
-- Total Sales
-- Profit
-- Quantity
-- Region-wise performance
-- Interactive slicers
+**Tech Stack:** Power BI · DAX · Data Modeling · Power Query
 
+* Visualizing **Total Sales by City** using map-based geo analysis
+* Analyzing **Monthly Sales Trends** with dynamic slicers
+* Comparing **Brand-wise Performance** with KPI indicators
+* Payment Method Analysis (Cash · BKash · Nagad · Rocket)
+* Customer Rating Distribution insights
+* Implemented dynamic **Monthly Slicer** for real-time filtering
 
-📚 Research & Publications
+---
 
-📄 Conference Papers:
-- 2 IEEE QPAIN 2026 (Accepted)
-- 1 ICSASD 2026 (Accepted)
+🔹 **Sales Dashboard — Excel**
+*Dynamic KPI Dashboard using Pivot Tables (2025)*
 
+> A business-focused Excel dashboard to monitor sales, profit, and regional performance.
 
-🎓 Education
+**Tech Stack:** Microsoft Excel · Pivot Table · Pivot Chart · Data Cleaning
 
-🎓 B.Sc in CSE  
-Daffodil International University  
-2022 – 2025  
+* Tracking **Total Sales, Profit & Quantity KPIs**
+* Region-wise performance breakdown
+* Interactive slicers for real-time filtering
+* Clean data transformation and structured reporting
 
+---
 
-🏆 Leadership & Activities
+# 📚 Research & Publications
 
-- Join Secretary – DIU Readers Club  
-- Organization Secretary – DIU Blood Donors Club  
-- Champion – Football Tournament  
+🔹 **Conference Papers**
 
+* 📄 **2 Papers — IEEE QPAIN 2026** (Accepted)
+* 📄 **1 Paper — ICSASD 2026** (Accepted)
 
-🌍 Languages
+---
 
-- Bengali – Native  
-- English – Professional Working Proficiency  
+# 🎓 Education
 
+🎓 **B.Sc in Computer Science & Engineering**
+Daffodil International University
+2022 – 2025
 
-🎯 Career Goal
+---
 
-To build a successful career as a skilled professional in the computer industry and contribute to innovative and impactful projects.
+# 🏆 Leadership & Activities
 
-⭐ Thank you for visiting my profile!
+* Join Secretary — DIU Readers Club
+* Organization Secretary — DIU Blood Donors Club
+* Champion — Football Tournament
+
+---
+
+# 🌍 Languages
+
+* Bengali — Native
+* English — Professional Working Proficiency
+
+---
+
+# 🎯 Career Goal
+
+To build a strong career as a skilled technology professional and contribute to innovative, data-driven, and impactful software projects.
+
+---
+
+⭐ *Thank you for visiting my profile!*
+
+---
+
