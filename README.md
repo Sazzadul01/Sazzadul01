@@ -15,6 +15,16 @@ I love transforming raw data into meaningful insights and building impactful ana
 
 
 🛠 Tech Stack
+| Layer        | Technologies                                                     |
+|--------------|------------------------------------------------------------------|
+| Data & BI    | Power BI, Microsoft Excel, MySQL, PostgreSQL                   |
+| Programming  | JavaScript, HTML, CSS                                           |
+| Data Analysis| Data Cleaning, Data Visualization, KPI Tracking, Dashboard Design |
+| Database     | MySQL, PostgreSQL                                               |
+| Research & AI| AI-based Research, Data Modeling, Analytical Techniques         |
+| Tools        | Microsoft Office, Git (Basic), PowerPoint                       |
+
+🛠 Tech Stack
 
 |       Layer               |        Technologies                                                                           |
 | ------------------------- | ----------------------------------------------------------------------------                  |
