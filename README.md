@@ -1,10 +1,14 @@
-Md. Sazzadul Islam
+<div align="center">
 
-CSE Student | Data Analyst | AI Research Enthusiast | Power BI Developer
+# Md. Sazzadul Islam
+### CSE Student | Data Analyst | AI Research Enthusiast
 
-Dhaka, Bangladesh  
-sazzadulislam289@gmail.com  
-+8801617671033  
+[![Portfolio](https://img.shields.io/badge/Portfolio-jabirr.vercel.app-black?style=flat-square&logo=vercel)](https://sites.google.com/diu.edu.bd/sazzadul5960?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jabirmahmud0-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sazzadul-islam-655a55392/)
+[![Email](https://img.shields.io/badge/Email-jaabirmahmud01@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sazzadulislam289@gmail.com)
+[![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-GMT+6-lightgrey?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Dhaka,Bangladesh)
+
+</div>  
 
 About Me
 
