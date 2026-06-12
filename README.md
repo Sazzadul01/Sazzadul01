@@ -19,11 +19,11 @@ I love transforming raw data into meaningful insights and building impactful ana
 |       Layer               |        Technologies                                                                           |
 | ------------------------- | ----------------------------------------------------------------------------                  |
 |   Data & BI               |     Power BI, Microsoft Excel, MySQL, PostgreSQL                                              |
-|   Programming             |     JavaScript, HTML, CSS                                                                     |
+|   Programming             |     JavaScript, HTML, CSS, C++                                                                |
 |   Data Analysis           |     Data Cleaning, Data Visualization, KPI Tracking, Dashboard Design                         |
 |   Database                |     MySQL, PostgreSQL                                                                         |
-|   Research & AI           |     AI-based Research, Data Modeling, Analytical Techniques                                   |
-|   Tools                   |     Microsoft Office, Git (Basic), PowerPoint                                                 |
+|   Research & AI           |     AI-based Research, Data Modeling, Analytical Techniques, n8n, Generative Ai               |
+|   Tools                   |     Microsoft Office, Git (Basic), PowerPoint, Vs Code                                        |
 
 
 
@@ -44,6 +44,34 @@ I love transforming raw data into meaningful insights and building impactful ana
 * Payment Method Analysis (Cash · BKash · Nagad · Rocket)
 * Customer Rating Distribution insights
 * Implemented dynamic **Monthly Slicer** for real-time filtering
+
+---
+
+🔹 **Sales Dashboard — Excel**
+*Dynamic KPI Dashboard using Pivot Tables (2025)*
+
+> A business-focused Excel dashboard to monitor sales, profit, and regional performance.
+
+**Tech Stack:** Microsoft Excel · Pivot Table · Pivot Chart · Data Cleaning
+
+* Tracking **Total Sales, Profit & Quantity KPIs**
+* Region-wise performance breakdown
+* Interactive slicers for real-time filtering
+* Clean data transformation and structured reporting
+
+---
+
+🔹 **Sales Dashboard — Excel**
+*Dynamic KPI Dashboard using Pivot Tables (2025)*
+
+> A business-focused Excel dashboard to monitor sales, profit, and regional performance.
+
+**Tech Stack:** Microsoft Excel · Pivot Table · Pivot Chart · Data Cleaning
+
+* Tracking **Total Sales, Profit & Quantity KPIs**
+* Region-wise performance breakdown
+* Interactive slicers for real-time filtering
+* Clean data transformation and structured reporting
 
 ---
 
