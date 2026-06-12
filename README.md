@@ -61,31 +61,23 @@ I love transforming raw data into meaningful insights and building impactful ana
 
 ---
 
-🔹 **Sales Dashboard — Excel**
-*Dynamic KPI Dashboard using Pivot Tables (2025)*
+🔹 **Medical Chatbot**
+LangChain
+RAG
+AI Healthcare Assistant
 
-> A business-focused Excel dashboard to monitor sales, profit, and regional performance.
-
-**Tech Stack:** Microsoft Excel · Pivot Table · Pivot Chart · Data Cleaning
-
-* Tracking **Total Sales, Profit & Quantity KPIs**
-* Region-wise performance breakdown
-* Interactive slicers for real-time filtering
-* Clean data transformation and structured reporting
+Source Code Analysis Tool
+AI-powered Code Understanding
+Repository Analysis
+LLM Integration
 
 ---
 
-🔹 **Sales Dashboard — Excel**
-*Dynamic KPI Dashboard using Pivot Tables (2025)*
-
-> A business-focused Excel dashboard to monitor sales, profit, and regional performance.
-
-**Tech Stack:** Microsoft Excel · Pivot Table · Pivot Chart · Data Cleaning
-
-* Tracking **Total Sales, Profit & Quantity KPIs**
-* Region-wise performance breakdown
-* Interactive slicers for real-time filtering
-* Clean data transformation and structured reporting
+🔹 **AI Chat Agent — n8n**
+OpenAI Integration
+Memory
+Wikipedia Tool
+Calculator Tool
 
 ---
 
@@ -108,8 +100,9 @@ Daffodil International University
 
 # 🏆 Leadership & Activities
 
-* Join Secretary — DIU Readers Club
+* Joint Secretary — DIU Readers Club
 * Organization Secretary — DIU Blood Donors Club
+* Adviser — DIU Blood Donors Club
 * Champion — Football Tournament
 
 ---
@@ -123,7 +116,7 @@ Daffodil International University
 
 # 🎯 Career Goal
 
-To build a strong career as a skilled technology professional and contribute to innovative, data-driven, and impactful software projects.
+To build a career in Data Analytics, Business Intelligence, and Artificial Intelligence by developing innovative solutions that transform data into meaningful business insights and create real-world impact.
 
 ---
 
