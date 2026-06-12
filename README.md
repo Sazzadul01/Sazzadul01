@@ -10,7 +10,7 @@
 
 </div>  
 
-I am a passionate Computer Science & Engineering student at Daffodil International University.I specialize in Data Analysis, Power BI Dashboard Development, and AI-based research projects.
+Computer Science & Engineering graduate from Daffodil International University with a strong interest in Data Analytics, Business Intelligence, Artificial Intelligence, and Automation. Experienced in developing Power BI dashboards, data-driven solutions, and AI-based research projects. Passionate about transforming raw data into actionable insights and building impactful technology solutions.
 I love transforming raw data into meaningful insights and building impactful analytical solutions.
 
 
