@@ -3,7 +3,7 @@
 # Md. Sazzadul Islam
 ### CSE Student | Data Analyst | AI Research Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sazzadul_Portfolio-black?style=flat-square&logo=vercel)]([https://sites.google.com/diu.edu.bd/sazzadul5960?usp=sharing](https://potfolio-alpha-dusky.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sazzadul_Portfolio-black?style=flat-square&logo=vercel)](https://potfolio-alpha-dusky.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sazzadul_Islam-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sazzadul-islam-655a55392/)
 [![Email](https://img.shields.io/badge/Email-sazzadulislam289@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sazzadulislam289@gmail.com)
 [![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-GMT+6-lightgrey?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Dhaka,Bangladesh)
