@@ -62,22 +62,22 @@ I love transforming raw data into meaningful insights and building impactful ana
 ---
 
 🔹 **Medical Chatbot**
-LangChain
-RAG
-AI Healthcare Assistant
+* LangChain
+* RAG
+* AI Healthcare Assistant
 
-Source Code Analysis Tool
-AI-powered Code Understanding
-Repository Analysis
-LLM Integration
+** Source Code Analysis Tool **
+* AI-powered Code Understanding
+* Repository Analysis
+* LLM Integration
 
 ---
 
 🔹 **AI Chat Agent — n8n**
-OpenAI Integration
-Memory
-Wikipedia Tool
-Calculator Tool
+* OpenAI Integration
+* Memory
+* Wikipedia Tool
+* Calculator Tool
 
 ---
 
@@ -111,6 +111,7 @@ Daffodil International University
 
 * Bengali — Native
 * English — Professional Working Proficiency
+* Hindi
 
 ---
 
